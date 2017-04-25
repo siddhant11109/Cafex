@@ -1,0 +1,4 @@
+Preferred structure:
+
+1) Connection.php - which database name, password etc. the attributes which we define only once. Just include this file everywhere then.
+2) Different php files having their own functionality like signin.php, signup.php. These files are just called from their corresponding html files.

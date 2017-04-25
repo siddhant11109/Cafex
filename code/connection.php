@@ -3,11 +3,3 @@
  $db = mysqli_connect('localhost','root','','cafex')
  or die('Error connecting to MySQL server.');
 ?>
-
-<html>
- <head>
- </head>
- <body>
- <h1>PHP connect to MySQL</h1>
-</body>
-</html>
